@@ -155,8 +155,8 @@ version = "0.27.10"
 
 [[DomDecOT]]
 deps = ["Documenter", "LinearAlgebra", "MultiScaleOT", "Random", "SparseArrays", "StatsBase", "Test", "TestSetExtensions"]
-git-tree-sha1 = "6a428487346d893360843ecde70ceb18a7ccba45"
-repo-rev = "872789f664d6fc0854ad88fbc93ea7eb737033f8"
+git-tree-sha1 = "6461c54b8f12b54fe62d19249be1e8cc75ece1fd"
+repo-rev = "8cd18ed75796e232e28b4db922758a2c7584c578"
 repo-url = "https://github.com/ismedina/DomDecOT.jl"
 uuid = "de904e9b-d3c6-49b5-88eb-93a408363a9e"
 version = "0.1.0"
